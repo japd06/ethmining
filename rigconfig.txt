@@ -6,10 +6,10 @@ proxypool1 eth-us2.dwarfpool.com:8008
 proxypool2 eth-us2.dwarfpool.com:8008
 flags --cl-local-work 256 --cl-global-work 16384 --farm-recheck 200
 globalfan  90
-#globalcore: 1025
-#globalmem: 1500
+globalcore: 1025
+globalmem: 1500
 #vlt 8eac72 1.313 1.313 1.313
-globalpowertune: 0 
+globalpowertune: 20 
 autoreboot true
 
 # QUICK START GUIDE
