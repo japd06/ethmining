@@ -1,15 +1,15 @@
-maxgputemp 80
+maxgputemp 75
 #pool http://eth-eu.dwarfpool.com/0x54041f7242a86518792577ad4959e2dca35a3b60/japd-rig1/japd06@gmail.com
 stratumproxy enabled
 proxywallet 0x54041f7242a86518792577ad4959e2dca35a3b60 
 proxypool1 eth-us2.dwarfpool.com:8008
 proxypool2 eth-us2.dwarfpool.com:8008
 flags --cl-local-work 256 --cl-global-work 16384 --farm-recheck 200
-globalfan  90
-globalcore: 1100
+globalfan  80
+globalcore: 1025
 globalmem: 1500
 #vlt 8eac72 1.313 1.313 1.313
-globalpowertune: 10 
+globalpowertune: 0
 autoreboot true
 
 # QUICK START GUIDE
