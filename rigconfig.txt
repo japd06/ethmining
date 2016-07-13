@@ -1,4 +1,4 @@
-maxgputemp 75
+maxgputemp 85
 #pool http://eth-eu.dwarfpool.com/0x54041f7242a86518792577ad4959e2dca35a3b60/japd-rig1/japd06@gmail.com
 stratumproxy enabled
 proxywallet 0x54041f7242a86518792577ad4959e2dca35a3b60 
